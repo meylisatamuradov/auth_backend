@@ -1,0 +1,29 @@
+export const data = [
+    {
+        id:1,
+        name:'Alice',
+        surname:'Bib',
+        age:18,
+        email:'alice@example.com',
+        password:"12345",
+        url:'http://localhost:8000/statics/1.jpg'
+    },
+    {
+        id:2,
+        name:'Alex',
+        surname:"Martin",
+        age:25,
+        email:'alex@example.com',
+        password:"mypass",
+        url:'http://localhost:8000/statics/2.jpg'
+    },
+    {
+        id:3,
+        name:'Marlin',
+        surname:"Huge",
+        age:28,
+        email:'marlin@axample.com',
+        password:"password",
+        url:'http://localhost:8000/statics/3.jpg'
+    },
+]
